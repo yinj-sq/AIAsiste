@@ -5,14 +5,7 @@ Windows 桌面 AI 对话助手，以悬浮球形式常驻桌面，支持与任�
 
 ## 快速启动
 
-双击 `启动.bat`，首次运行会自动安装依赖。
-
-或手动启动：
-
-```bash
-pip install -r requirements.txt
-python main.py
-```
+已注册为系统服务，重启后会自动运行
 
 ## 使用方式
 
